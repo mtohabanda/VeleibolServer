@@ -1,0 +1,11 @@
+C:\Users\SONY\Desktop\nDeveloperJob\repository\Veleibol\Veleibol\bin\Debug\netcoreapp2.0\Veleibol.deps.json
+C:\Users\SONY\Desktop\nDeveloperJob\repository\Veleibol\Veleibol\bin\Debug\netcoreapp2.0\Veleibol.runtimeconfig.json
+C:\Users\SONY\Desktop\nDeveloperJob\repository\Veleibol\Veleibol\bin\Debug\netcoreapp2.0\Veleibol.runtimeconfig.dev.json
+C:\Users\SONY\Desktop\nDeveloperJob\repository\Veleibol\Veleibol\bin\Debug\netcoreapp2.0\Veleibol.dll
+C:\Users\SONY\Desktop\nDeveloperJob\repository\Veleibol\Veleibol\obj\Debug\netcoreapp2.0\Veleibol.csproj.CoreCompileInputs.cache
+C:\Users\SONY\Desktop\nDeveloperJob\repository\Veleibol\Veleibol\obj\Debug\netcoreapp2.0\Veleibol.AssemblyInfoInputs.cache
+C:\Users\SONY\Desktop\nDeveloperJob\repository\Veleibol\Veleibol\obj\Debug\netcoreapp2.0\Veleibol.AssemblyInfo.cs
+C:\Users\SONY\Desktop\nDeveloperJob\repository\Veleibol\Veleibol\bin\Debug\netcoreapp2.0\Veleibol.pdb
+C:\Users\SONY\Desktop\nDeveloperJob\repository\Veleibol\Veleibol\obj\Debug\netcoreapp2.0\Veleibol.dll
+C:\Users\SONY\Desktop\nDeveloperJob\repository\Veleibol\Veleibol\obj\Debug\netcoreapp2.0\Veleibol.pdb
+C:\Users\SONY\Desktop\nDeveloperJob\repository\Veleibol\Veleibol\obj\Debug\netcoreapp2.0\Veleibol.csprojResolveAssemblyReference.cache
